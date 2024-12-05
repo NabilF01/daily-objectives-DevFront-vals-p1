@@ -15,4 +15,4 @@
   - [x] `||` (OR)
   - [x] `&&` (AND)
   - [x] `!` (NOT)
-  - [ ] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
+  - [x] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
